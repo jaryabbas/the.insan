@@ -1,12 +1,4 @@
-# React + Vite
+# The Insan (Human Being)
 https://theinsan.netlify.app/
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**The Insan** is a platform focused on the core elements that matter most in human life—career growth, mental and physical health, food and nutrition, lifestyle improvement, emotional well-being, and personal development. The project is designed to guide individuals through real-life challenges by offering practical knowledge, thoughtful insights, and easy-to-understand resources that support better decision-making. With a human-centric approach, The Insan aims to help people live healthier, more meaningful, and more balanced lives by simplifying complex topics and bringing clarity to what truly impacts our daily existence.
